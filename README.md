@@ -1,4 +1,6 @@
 
+[![Build Status](https://sentinelcsg.visualstudio.com/sentinel-enterprise/_apis/build/status/Test-Dummy?branchName=main)](https://sentinelcsg.visualstudio.com/sentinel-enterprise/_build/latest?definitionId=16&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
